@@ -13,7 +13,7 @@
 		<key>MUNKI_REPO_SUBDIR</key>
 		<string>apps/%NAME%</string>
 		<key>NAME</key>
-		<string>ETC</string>
+		<string>Eos Family Welcome Screen</string>
 		<key>pkginfo</key>
 		<dict>
 			<key>blocking_applications</key>
@@ -26,14 +26,14 @@
 			</array>
 			<key>catalogs</key>
 			<array>
-				<string>Production</string>
+				<string>testing</string>
 			</array>
 			<key>description</key>
 			<string> </string>
 			<key>developer</key>
-			<string>ETC</string>
+			<string>Electronic Theatre Controls, Inc.</string>
 			<key>display_name</key>
-			<string>ETCnomad Eos Mac</string>
+			<string>Eos Family Welcome Screen</string>
 			<key>name</key>
 			<string>%NAME%</string>
 			<key>unattended_install</key>
