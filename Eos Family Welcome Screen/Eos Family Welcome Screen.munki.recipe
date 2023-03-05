@@ -11,9 +11,9 @@
 	<key>Input</key>
 	<dict>
 		<key>MUNKI_REPO_SUBDIR</key>
-		<string>apps/%NAME%</string>
+		<string>apps/%developer%</string>
 		<key>NAME</key>
-		<string>Eos Family Welcome Screen</string>
+		<string>ETCnomad Eos Mac</string>
 		<key>pkginfo</key>
 		<dict>
 			<key>blocking_applications</key>
@@ -31,11 +31,11 @@
 			<key>description</key>
 			<string> </string>
 			<key>developer</key>
-			<string>Electronic Theatre Controls, Inc.</string>
+			<string>ETC</string>
 			<key>display_name</key>
-			<string>Eos Family Welcome Screen</string>
+			<string>ETCnomad Eos Mac</string>
 			<key>name</key>
-			<string>%NAME%</string>
+			<string>%developer%</string>
 			<key>unattended_install</key>
 			<true/>
 		</dict>
