@@ -30,7 +30,7 @@
 			<key>developer</key>
 			<string>Electronic Theatre Controls, Inc.</string>
 			<key>display_name</key>
-			<string>Concert_4.3.0</string>
+			<string>Concert</string>
 			<key>name</key>
 			<string>%NAME%</string>
 			<key>unattended_install</key>
