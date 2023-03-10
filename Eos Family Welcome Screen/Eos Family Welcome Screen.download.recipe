@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Eos Family Welcome Screen.</string>
 	<key>Identifier</key>
-	<string>com.github.AlexJGardner.download.EosFamilyWelcomeScreen</string>
+	<string>com.github.AlexJamesGardner.download.EosFamilyWelcomeScreen</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
